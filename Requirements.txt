@@ -1,0 +1,32 @@
+tensorflow - to train moodel
+keras - package
+pandas - dataset 
+jupyter
+notebook
+opencv-contrib-python - realtime input 
+tqdm - for fetching images one by one
+scikit learn
+
+images                 labels
+image/angry/1.jpg      angry
+image/angry/2.jpg      angry
+image/angry/3.jpg      angry
+image/sad/1.jpg        sad
+image/happy/1.jpg      happy
+
+we'll make a dataframe of the above data using pandas
+we'll convert the images into an array using load_img fn of tensorflow 
+library
+load_img(img, greyscale = True) - we'll convert the image into greyscale 
+i.e. b/w
+
+we'll use the dataset from kaggle
+
+we'll use supervised learning - jisme input ke saath label bhi de
+
+tensorflow, keras, pandas, opencv, tqdm, scikit learn, etc
+jupyter
+notebook
+opencv-contrib-python  
+tqdm 
+scikit learn
